@@ -1,5 +1,1 @@
-pkg install python
-
-python3 
-
-print ("x*5000)
+python3 Samitha.py
