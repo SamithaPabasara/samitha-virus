@@ -1,1 +1,1 @@
-python3 Samitha.py
+python3 samitha.py
